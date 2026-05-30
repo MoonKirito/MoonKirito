@@ -95,16 +95,51 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 ## 📊 Developer Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoonKirito&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MoonKirito&theme=default&hide_border=true" alt="Contribution Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonKirito&theme=github"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonKirito&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoonKirito&theme=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoonKirito&theme=github&utcOffset=8"
+    width="48%"
+    alt="Productive Time"
+  />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoonKirito&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoonKirito&theme=github"
+    width="48%"
+    alt="Repos Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoonKirito&theme=github"
+    width="48%"
+    alt="Most Commit Language"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MoonKirito&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA"
+    width="60%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MoonKirito&theme=github-light&hide_border=true&radius=8&area=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
