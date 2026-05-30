@@ -1,48 +1,34 @@
-<div align="center">
+<img align="right" width="285" src="./assets/mascot.gif" alt="Daily Vibe" />
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h1>Hi, I'm Jasmine — an AI Engineer in training.</h1>
-      <p>
-        <b>AI Engineer</b> · <b>Agent Engineer</b> · <b>LLM Application Engineer</b> · <b>Full-stack Engineer</b>
-      </p>
-      <p>
-        Incoming graduate student in <b>Artificial Intelligence</b> at <b>Xidian University</b>.<br />
-        Interested in AI systems, agent workflows, LLM applications, and full-stack development.
-      </p>
-      <h3>🎯 Intended Roles</h3>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20Engineer-0969DA?style=flat-square" alt="AI Engineer" />
-        <img src="https://img.shields.io/badge/Agent%20Engineer-8250DF?style=flat-square" alt="Agent Engineer" />
-        <img src="https://img.shields.io/badge/LLM%20Application%20Engineer-1F6FEB?style=flat-square" alt="LLM Application Engineer" />
-        <img src="https://img.shields.io/badge/Full--stack%20Engineer-2DA44E?style=flat-square" alt="Full-stack Engineer" />
-      </p>
-      <h3>🎓 Education</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Incoming%20M.S.%20Student-2DA44E?style=flat-square" alt="Incoming M.S. Student" />
-        <img src="https://img.shields.io/badge/Artificial%20Intelligence-0969DA?style=flat-square" alt="Artificial Intelligence" />
-        <img src="https://img.shields.io/badge/Xidian%20University-8250DF?style=flat-square" alt="Xidian University" />
-        <img src="https://img.shields.io/badge/First--year%20graduate%20student-6E7781?style=flat-square" alt="First-year graduate student" />
-      </p>
-      <h3>🌱 Interests</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Naraka%3A%20Bladepoint-6F42C1?style=flat-square" alt="Naraka: Bladepoint" />
-        <img src="https://img.shields.io/badge/Delta%20Force-0969DA?style=flat-square" alt="Delta Force" />
-        <img src="https://img.shields.io/badge/Anime-DB61A2?style=flat-square" alt="Anime" />
-        <img src="https://img.shields.io/badge/Novels-8957E5?style=flat-square" alt="Novels" />
-      </p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <h3>✨ Daily Vibe</h3>
-      <img src="./assets/mascot.gif" width="230" alt="daily vibe gif" />
-      <br />
-      <sub>anime · novels · gaming</sub>
-    </td>
-  </tr>
-</table>
+# Hi, I'm Jasmine — an AI Engineer in training.
 
-</div>
+**AI Engineer · Agent Engineer · LLM Application Engineer · Full-stack Engineer**
+
+Incoming graduate student in **Artificial Intelligence** at **Xidian University**.  
+Interested in AI systems, agent workflows, LLM applications, and full-stack development.
+
+### 🎯 Intended Roles
+
+<kbd>AI Engineer</kbd>&nbsp;
+<kbd>Agent Engineer</kbd>&nbsp;
+<kbd>LLM Application Engineer</kbd>&nbsp;
+<kbd>Full-stack Engineer</kbd>
+
+### 🎓 Education
+
+<kbd>Incoming M.S. Student</kbd>&nbsp;
+<kbd>Artificial Intelligence</kbd>&nbsp;
+<kbd>Xidian University</kbd>&nbsp;
+<kbd>First-year graduate student</kbd>
+
+### 🌱 Interests
+
+<kbd>Naraka: Bladepoint</kbd>&nbsp;
+<kbd>Delta Force</kbd>&nbsp;
+<kbd>Anime</kbd>&nbsp;
+<kbd>Novels</kbd>
+
+<br clear="right" />
 
 ---
 
@@ -112,3 +98,4 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoonKirito&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
+---
