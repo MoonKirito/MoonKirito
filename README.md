@@ -1,4 +1,4 @@
-<img align="right" width="285" src="./assets/mascot.gif" alt="Daily Vibe" />
+<img align="right" width="255" src="./assets/mascot.gif" alt="Daily Vibe" />
 
 # Hi, I'm Jasmine — an AI Engineer.
 
