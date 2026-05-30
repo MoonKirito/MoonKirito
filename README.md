@@ -1,9 +1,6 @@
-<img align="right" width="255" src="./assets/mascot.gif" alt="Daily Vibe" />
-
 # Hi, I'm Jasmine — an AI Engineer.
-
 **AI Engineer · Agent Engineer · LLM Application Engineer · Full-stack Engineer**
-
+<img align="right" width="190" src="./assets/mascot.gif" alt="Daily Vibe" />
 Incoming graduate student in **Artificial Intelligence** at **Xidian University**.  
 Interested in AI systems, agent workflows, LLM applications, and full-stack development.
 
