@@ -112,12 +112,3 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoonKirito&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 </p>
 
----
-
-## 📫 Contact
-
-<p>
-  <img src="https://img.shields.io/badge/Email-zyikeeper%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/Location-Suzhou%2C%20China-0969DA?style=flat-square" alt="Suzhou, China" />
-</p>
-
