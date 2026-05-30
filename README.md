@@ -97,7 +97,7 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonKirito&theme=github"
-    width="100%"
+    width="88%"
     alt="GitHub Profile Details"
   />
 </p>
@@ -105,12 +105,12 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoonKirito&theme=github"
-    width="48%"
+    width="43%"
     alt="GitHub Stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoonKirito&theme=github&utcOffset=8"
-    width="48%"
+    width="43%"
     alt="Productive Time"
   />
 </p>
@@ -118,28 +118,12 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoonKirito&theme=github"
-    width="48%"
-    alt="Repos Per Language"
+    width="43%"
+    alt="Top Languages by Repo"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoonKirito&theme=github"
-    width="48%"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MoonKirito&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA"
-    width="60%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MoonKirito&theme=github-light&hide_border=true&radius=8&area=true"
-    width="100%"
-    alt="Contribution Activity Graph"
+    width="43%"
+    alt="Top Languages by Commit"
   />
 </p>
