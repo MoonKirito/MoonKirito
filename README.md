@@ -97,7 +97,7 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonKirito&theme=github"
-    width="88%"
+    width="20%"
     alt="GitHub Profile Details"
   />
 </p>
@@ -105,12 +105,12 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoonKirito&theme=github"
-    width="43%"
+    width="20%"
     alt="GitHub Stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoonKirito&theme=github&utcOffset=8"
-    width="43%"
+    width="20%"
     alt="Productive Time"
   />
 </p>
@@ -118,12 +118,12 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoonKirito&theme=github"
-    width="43%"
+    width="20%"
     alt="Top Languages by Repo"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoonKirito&theme=github"
-    width="43%"
+    width="20%"
     alt="Top Languages by Commit"
   />
 </p>
