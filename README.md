@@ -1,6 +1,6 @@
 <img align="right" width="285" src="./assets/mascot.gif" alt="Daily Vibe" />
 
-# Hi, I'm Jasmine — an AI Engineer in training.
+# Hi, I'm Jasmine — an AI Engineer.
 
 **AI Engineer · Agent Engineer · LLM Application Engineer · Full-stack Engineer**
 
