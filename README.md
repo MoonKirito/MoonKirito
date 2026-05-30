@@ -33,52 +33,64 @@ Interested in AI systems, agent workflows, LLM applications, and full-stack deve
 
 <table>
   <tr>
-    <td width="28%" valign="top">
-      <h3>🤖 AI / LLM</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Jittor-1E90FF?style=flat-square" alt="Jittor" />
-        <br />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-        <img src="https://img.shields.io/badge/RAG-0969DA?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Agents-8250DF?style=flat-square" alt="Agents" />
-      </p>
+    <td align="center" width="22%">
+      <b>AI / LLM</b>
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" title="Python" />
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" title="PyTorch" />
+      &nbsp;&nbsp;
+      <img src="https://api.iconify.design/material-symbols:memory-alt-outline.svg?color=%230969da" width="42" height="42" title="Jittor" />
+      <br/><br/>
+      <img src="https://api.iconify.design/ph:link-simple-bold.svg?color=%23007f5f" width="42" height="42" title="LangChain" />
+      &nbsp;&nbsp;
+      <img src="https://api.iconify.design/material-symbols:database-search-outline.svg?color=%2357636a" width="42" height="42" title="RAG" />
+      &nbsp;&nbsp;
+      <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%236f42c1" width="42" height="42" title="Agents" />
+      <br/><br/>
+      <sub>Python · PyTorch · Jittor</sub>
+      <br/>
+      <sub>LangChain · RAG · Agents</sub>
     </td>
-    <td width="18%" valign="top">
-      <h3>⚡ Backend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      </p>
+    <td align="center" width="18%">
+      <b>Backend</b>
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="52" height="52" title="FastAPI" />
+      <br/><br/>
+      <sub>FastAPI</sub>
     </td>
-    <td width="18%" valign="top">
-      <h3>🗄 Database</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <br />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      </p>
+    <td align="center" width="20%">
+      <b>Database</b>
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52" title="MySQL" />
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="52" height="52" title="Redis" />
+      <br/><br/>
+      <sub>MySQL · Redis</sub>
     </td>
-    <td width="18%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-        <br />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
+    <td align="center" width="20%">
+      <b>Frontend</b>
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="52" height="52" title="Vue" />
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="52" title="TypeScript" />
+      <br/><br/>
+      <sub>Vue · TypeScript</sub>
     </td>
-    <td width="18%" valign="top">
-      <h3>🧰 Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <br />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
+    <td align="center" width="20%">
+      <b>Engineering Tools</b>
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" title="Git" />
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" height="52" title="Docker" />
+      <br/><br/>
+      <sub>Git · Docker</sub>
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## 📊 Developer Dashboard
 
